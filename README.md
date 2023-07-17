@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nileshmojankar1
-- 👀 I’m interested in coding and managing
-- 🌱 I’m currently learning little bit learning algorithms
+- 👀 I’m interested in coding and develoing
+- 🌱 I’m currently learning little bit  algorithms
 
 <!---
 nileshmojankar1/nileshmojankar1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
